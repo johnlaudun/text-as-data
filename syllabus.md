@@ -4,7 +4,7 @@
 
 Pr. John Laudun / HLG 356 / laudun@louisiana.edu
 
-
+![](assets/mid-journey.png) 
 
 The past decade has witnessed an explosion of data produced by just about everything and everyone everywhere. From individuals posting on Twitter or Reddit to governmental agencies and non-governmental organizations making data available either through documents or APIs, to the digitization of vast amounts of historical archives and administrative records, these troves of data offer analysts the ability to understand, and perhaps address, a range of  pressing problems within communities, market sectors, and industries. A lot of this data is in the form of text, messy and unstructured texts. Collecting and analyzing such data presents unique challenges. Fortunately, major advances in data science, natural language processing, discourse analysis, and computational text studies has offered analysts a number of useful footholds from which to launch their explorations. 
 
@@ -16,15 +16,19 @@ Text analytics is important because it allows individuals and organizations to g
 
 ## What are you going to learn?
 
-This course  will provide students with an overview of popular techniques for  collecting, processing, and analyzing text-based data—including web scraping, mining data from application programming interfaces (APIs), topic modeling, text networks, and advanced text classifiers.
+In this course, you will have the opportunity to explore various kinds of text analysis: from collecting, preprocessing, and vectoring a collection, or corpus, of texts into high-dimensional feature representations; to performing document classification and topic modeling; to extracting key phrases, named entities, and graph structures; to sentiment analysis and other forms of controlled vocabulary application. Much of the work will be hands-on, working first with data sets provided to you but with the goal of you developing a data set, and thus insights all your own. Final outputs will vary by student interest and appropriateness to the data, but can include a rich set of visualizations, a written report, or a chat bot. 
 
-In this course, you will have the opportunity to explore various kinds of text analysis: from gathering, preprocessing, and vectoring a collection, or corpus, of texts into high-dimensional feature representations; to performing document classification and topic modeling; to extracting key phrases, named entities, and graph structures; to sentiment analysis and other forms of controlled vocabulary application. Much of the work will be hands-on, working first with data sets provided by the course but with the goal of you developing a data set, and thus insights all your own. Final outputs will vary by student interest and appropriateness to the data, but can include a rich set of visualizations, a written report, or a chat bot. 
+- **collecting** includes gathering (web scraping and using APIs) as well as preprocessing
+- **vectoring** exploring various forms of representation, from bags of words to word embeddings
+- **analysis** ML methods, topic modeling, and advanced text classifiers
 
 ## How are you going to learn?
 
-Few people learn things exactly the same way and at exactly the same pace. Sometimes hearing something once is enough for you; sometimes you need to see it multiple times. Sometimes you need to read it instead of hear it. Sometimes you need to see it. But most importantly, you need to do it. This course assumes a basic familiarity with Python and that you are capable of setting up, maintaining, and updating a Python environment. For those who need a refreshers, there will be a crash course on mini conda and the importance of maintaining virtual environments at the start of the course. Much of the course will proceed through either Jupyter notebooks provided to you either to complete or to use as a basis for your own work. Those will be found in the class GitHub repository, which is also where you are going to turn in assignments — please note even written assignments will be turned in via GitHub and we will be using plain text formatted in markdown for much of our writing!
+Few people learn things exactly the same way and at exactly the same pace. Sometimes hearing something once is enough for you; sometimes you need to see it multiple times. Sometimes you need to read it instead of hear it. Sometimes you need to see it. But most importantly, you need to do it. Wherever possible, we will be doing things: conducting a variety of thought and actual experiments so that you have a feel for text analytics that will serve as a foundation well beyond the course. (This means that sometimes we will be doing things by hand!)
 
+This course assumes a basic familiarity with Python and that you are capable of setting up, maintaining, and updating a Python environment. For those who need a refreshers, there will be a crash course on **mini conda** and the importance of maintaining virtual environments at the start of the course. (***Note***: your course instructor is not a computer scientist. Your code will not be evaluated for efficiency or speed, only for effectiveness in achieving a task as either defined by an assignment or, by semester’s end, by you.) While the course begins with Jupyter notebooks provided to you to complete, it moves quickly to put the code in your hands. 
 
+This course also assumes a basic familiarity with `git` and [Github](https://github.com). We will be using [GitHub classroom](https://classroom.github.com) for the distribution and evaluation of assignments and also for sharing ideas and innovations. For written work, we will rely upon markdown-formatted documents wherever possible, though if you have  LaTeX skills, feel free to flex them. (One feature of Jupyter, for those not familiar with it is that you can mix code cells and markdown-formatted text cells: it even has a slide presentation mode!)
 
 ## Resources
 

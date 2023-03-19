@@ -13,9 +13,9 @@ With credit to [Francis Bond’s HG2051](http://compling.hss.ntu.edu.sg/courses/
 
 
 
+
 There’s a great moment in John Scalzi’s _Redshirts_ where statistical analysis is mentioned, and it comes down to comparing texts:
 
-- - -
 “So what you’re saying is all this is impossible,” Dahl said.
 
 Jenkins shook his head. “Nothing’s impossible,” he said. “But some things are pretty damned unlikely. This is one of them.”
@@ -30,4 +30,5 @@ Duvall frowned. “I don’t recognize this ship,” she said. “And I thought 
 Duvall blinked and focused her attention back at Jenkins. “Who are they?” she asked.
 
 “They don’t exist,” Jenkins said, and pointed back at the ship. “And neither does this. This is the starship Enterprise. It’s fictional. It was on a science fictional drama series. And so are we.”
-- - -
+
+Compare to Moliere's gentleman or something from Lewis Carroll's Alice. There's something strange about realizing that all the things you've been writing are available for analysis.
