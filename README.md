@@ -4,12 +4,12 @@ Hello there. Welcome to the ReadMe for Text as Data, a course proposed at the UL
 
 For more information, please feel free to contact me:
 
-John Laudun
-Department of English 
-University of Louisiana
-Lafayette, LA 70504-4691
-laudun@louisiana.edu
-https://johnlaudun.net/
-https://github.com/johnlaudun
-@johnlaudun@hcommons.social
+John Laudun  
+Department of English  
+University of Louisiana  
+Lafayette, LA 70504-4691  
+laudun@louisiana.edu  
+https://johnlaudun.net/  
+https://github.com/johnlaudun  
+@johnlaudun@hcommons.social  
 he/him/his
