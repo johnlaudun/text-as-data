@@ -2,7 +2,9 @@
 
 # Text as Data
 
-Pr. John Laudun / HLG 356 / laudun@louisiana.edu
+ENGL 370-001 / DD HHMM-HHMM / BLDG 100 / [Schedule]()
+
+[Pr. John Laudun](https://johnlaudun.net/) / HLG 356 / DD HHMM-HHMM & by appointment / laudun@louisiana.edu
 
 ![](assets/mid-journey.png) 
 

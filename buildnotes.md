@@ -32,3 +32,11 @@ Duvall blinked and focused her attention back at Jenkins. “Who are they?” sh
 “They don’t exist,” Jenkins said, and pointed back at the ship. “And neither does this. This is the starship Enterprise. It’s fictional. It was on a science fictional drama series. And so are we.”
 
 Compare to Moliere's gentleman or something from Lewis Carroll's Alice. There's something strange about realizing that all the things you've been writing are available for analysis.
+
+
+
+https://cbail.github.io/textasdata/Text_as_Data.html
+
+
+
+https://guides.library.uq.edu.au/research-techniques/text-mining-analysis/sources-of-text-data
