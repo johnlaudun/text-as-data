@@ -1,10 +1,10 @@
 # Text as Data
 
-Hello there. Welcome to the ReadMe for Text as Data, a course designed to acquaint undergraduates with the basics of text analytics. The big picture schedule is below. Click on the units for details. And you can always go the [syllabus][] for this course.
+_Text as Data_ is the repository for ENGL 370: Introduction to Text Analytics. The big picture schedule is below. Click on the units for details. See the [syllabus][] for everything else.
 
-Unit 0 | Getting Started
+[Unit 0 | Getting Started](units/0-introductions.md)
 
-Unit 1 | Foundations
+[Unit 1 | Foundations](units/1-basics.md)
 
 
 
