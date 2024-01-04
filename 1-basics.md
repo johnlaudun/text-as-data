@@ -1,33 +1,8 @@
-# Text as Data Schedule
-
-ENGL 370-004 / TR 1100-1215 / BLDG 100
-
-[Pr. John Laudun](https://johnlaudun.net/) / HLG 356 / DD HHMM-HHMM & by appointment / laudun@louisiana.edu
-
-![](assets/mid-journey.png) 
+## Basic Text Operations
 
 
-## Schedule
 
-### Unit 0 | Getting Started
-
-*In the first two weeks of the course, we lay out some of the basics of
-what we will be doing: quantifying qualitative data. For every insight,
-there is a blindness. There are many questions to ask, and many ways to
-ask them.*
-
-0.0. Course Overview. All the usual things.
-
-0.1. Ethical Considerations. 
-
-0.2. Analytics Unplugged. We analyze a short story *sans ordinateur*. Our considerations include: summarization, named entities, (and with a little computing) term frequencies.**Action(s)**: In groups, create a meaningful visualization of text based on a quantification of your choosing.
-**Follow-Up**: ["The Zipf
-Mystery"](https://www.youtube.com/watch?v=fCn8zs912OE).
-
-#### 0.2 Python Text Processing Basics
-
-In the second week we establish the basics of loading text from files,
-identifying and extracting core content, and deconstructing texts into
+ identifying and extracting core content, and deconstructing texts into
 various constituent parts: paragraphs, sentences, words. We also discuss
 what it means to work with a corpus and how to transform and store texts
 into a corpus that can be readily accessed and used.
@@ -35,9 +10,6 @@ into a corpus that can be readily accessed and used.
 **Method(s)**: Tokenization, Stop lists
 
 **Action(s)**:
-
-**Consideration(s)**: [A Short History and Explanation of
-GREP](https://www.youtube.com/watch?v=NTfOnGZUZDk).
 
 ### Unit 1 \| getting up to speed
 
