@@ -14,9 +14,9 @@
 
 _Text as Data_ is the repository for ENGL 370: Introduction to Text Analytics. The big picture schedule is below. Click on the units for details. See the [syllabus][] for everything else.
 
-[Unit 0 | Getting Started](units/0-introductions.md)
+[Unit 0 / Getting Started](units/0-introductions.md)
 
-[Unit 1 | Foundations](units/1-basics.md)
+[Unit 1 / Foundations](units/1-foundations.md)
 
 
 
