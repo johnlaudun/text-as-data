@@ -9,7 +9,7 @@ In the first two weeks we make all the usual introductions: course and participa
 * [Data Feminism][]: Download the introduction and read it. Our discussion will focus on the last section, entitled “Data and Power” (11-17).
 * [Intelligence Community Directives][]: download [ICD 203](https://www.dni.gov/files/documents/ICD/ICD-203_TA_Analytic_Standards_21_Dec_2022.pdf) - Analytic Standards and read it. Our discussion will focus on D.6.3.e.(1-9).
 
-If these kinds of larger considerations pique your curiosity, there are a number of books now out. I like Erica Thompson’s _Escape from Model Land_ and Brandeis Hill Marshall’s _Data Conscience_. 
+If these kinds of larger considerations pique your curiosity, there are a number of books now out. I like Erica Thompson’s _Escape from Model Land_ and Brandeis Hill Marshall’s _Data Conscience_. There is also *A Primer on Powerful Numbers: Selected Readings in the Social Study of Publc Data and Official Numbers*, which is available from [Data & Society](https://datasociety.net/library/a-primer-on-powerful-numbers-selected-readings-in-the-social-study-of-public-data-and-official-numbers/). 
 
 **Note**: We will read Bender et al’s “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” ([Bender et al 2021][]) later this semester when we get to transformers and large language models.
 
