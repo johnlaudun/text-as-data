@@ -21,8 +21,3 @@ If these kinds of larger considerations pique your curiosity, there are a number
 [Data Feminism]: https://direct.mit.edu/books/oa-monograph/4660/Data-Feminism
 [Intelligence Community Directives]: https://www.dni.gov/index.php/what-we-do/ic-related-menus/ic-related-links/intelligence-community-directives
 ["The Zipf Mystery"]: https://www.youtube.com/watch?v=fCn8zs912OE
-
-0.4/5. **Files**. If we need to, we can review  the basics of loading text from files as well as scraping sites to get files. We can discuss using a shell command like `xyz` as well as Python libraries for doing similar things. (It's possible we will cover `BeautifulSoup` here: but we may come back to getting data once we have worked with some provided materials.)
-
-**Further**: [A Short History and Explanation of
-GREP](https://www.youtube.com/watch?v=NTfOnGZUZDk).
