@@ -46,7 +46,7 @@ Some of you may have heard of, and even used, Mini Conda's larger cousin, Anacon
 
 #### Getting up and running with `conda`
 
-1. **Install Mini Coda**: go to its documents site: https://docs.conda.io/en/latest/. Click on the *Getting Started* panel, which will walk you through the [installation][] process. The easiest way seems to be to download an installer and run it. (CLI gurus feel free to go that route.)
+1. **Install Mini Coda**: go to its documents site: https://docs.conda.io/en/latest/. Click on the *Getting Started* panel, which will walk you through the [installation](https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html) process. The easiest way seems to be to download an installer and run it. (CLI gurus feel free to go that route.)
 2. After you have installed Miniconda — and make sure it’s Miniconda and not its bigger sibling Anaconda — **open up your shell** / terminal. You should now see a conda environment in front of your shell prompt. It will look something like this:
 
 ```bash
@@ -76,4 +76,6 @@ If, after you have installed Jupyter, you need a little help getting started, ta
 
 https://www.codecademy.com/article/setting-up-jupyter-notebook 
 
-[installation]: https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html
+If you want to have a look into the future, take a look at the first chapter in the NLTK book: 
+
+https://www.nltk.org/book/ch01.html. 
