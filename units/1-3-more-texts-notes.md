@@ -1,8 +1,8 @@
-## 1-3 More Texts, More Words
-
-### Texts and Words
+## 1-3 Texts and Words
 
 In the previous lab we explored various functions within the NLTK using the text of “The Most Dangerous Game,” but the text of _Heart of Darkness_ is also available for comparison. Having a larger (longer) text is important for some of the functions offered in the first chapter: a number of them work better with more data. The paucity of data in an 8000-word text becomes apparent quickly!
+
+
 
 ### Lexical Diversity
 

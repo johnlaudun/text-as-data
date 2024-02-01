@@ -1,6 +1,6 @@
-### 1-2 Texts and Words
+## 1-2 Texts and NLTK
 
-For most of this notebook we explored various functions within the NLTK using the text of “The Most Dangerous Game,” but the text of _Heart of Darkness_ is also available for comparison. Having a larger (longer) text is important for some of the functions offered in the first chapter: a number of them work better with more data. The paucity of data in an 8000-word text becomes apparent quickly!
+For most of this notebook we explore various functions within the NLTK using the text of “The Most Dangerous Game,” but the text of _Heart of Darkness_ is also available for comparison. Having a larger (longer) text is important for some of the functions offered in the first chapter: a number of them work better with more data. The paucity of data in an 8000-word text becomes apparent quickly!
 
 The nice thing about a small text is that we are not overwhelmed by the results of `concordance()`. For most words, we will be able to scan all the entries at a glance—perhaps only the instances of “Rainsford” and “General” break this. The same is not true for a longer text like HoD, which is fairly short at approximately 38,000 words. That’s nothing compared to, let’s say, _The Hobbit_ which weighs in at 98,356 words. (The novels in Tolkien’s trilogy are even longer: 187,790 words for *Fellowship*, 156,198 for *Towers*, 137,115 for *Return* — that’s a 20-30k drop in word count with each iteration, perhaps even Tolkien was tiring!)
 
