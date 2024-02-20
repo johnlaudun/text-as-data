@@ -19,6 +19,11 @@ _Text as Data_ is the repository for ENGL 370: Introduction to Text Analytics. T
 [Unit 1 / Foundations](units/1-foundations.md)
 
 
+## References & Guides
+
+- [Math Equations in Markdown](https://www.upyesp.org/posts/makrdown-vscode-math-notation/)
+
+## Colophon
 
 For more information, please feel free to [contact me][].
 
