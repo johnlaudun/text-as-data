@@ -22,6 +22,11 @@ One place to begin is with with frequencies, and we’ve already seen the utilit
 
 Okay, but just because a word occurs often, frequently, in a text does not mean it’s important. After all, as we already discussed there are a lot of words that occur most frequently and they have very little impact on what we think a text is about. A frequency list, however, is easily produced and sometimes just scanning the results of such list-making can provoke interesting questions. 
 
+The good folks at Lancaster University have made word frequency lists available for British English:
+
+* [LancsLex](https://lancslex.lancs.ac.uk/) has three lists: word, lemma, and lexeme.
+* [Words, words, words: A new Frequency Dictionary of British English](https://cass.lancs.ac.uk/words-words-words-a-new-frequency-dictionary-of-british-english/)
+
 ## Frequency Distributions
 
 Compiling a list of words and their frequencies is interesting, and we will use such lists many times over this course, but such a list renders a text into what is commonly called a “bag of words”. This term is in fact so common that you will usually see the acronym, *BoW*. In some cases you may come across such word frequency lists stored as files with a `bow` extension. Some sources of texts, like JSTOR, make those texts available only as BoWs, which does suggest how powerful co-occurrence of words in a text can be. (We will talk more about co-occurrence later in this course.) Just to be clear, a BoW (and thus also a BoW file) will simply be a list of words and their counts:
