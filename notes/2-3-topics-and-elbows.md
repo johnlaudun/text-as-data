@@ -36,3 +36,10 @@ WCSS (Within-Cluster Sum of Squares) is the sum of the squared distance between 
 * [USAJOBS - Job Announcement](https://www.usajobs.gov/job/778460800?share=linkedin)
 * [Python's Requests Library (Guide) – Real Python](https://realpython.com/python-requests/?utm\_source=notification\_summary&utm\_medium=email&utm\_campaign=2024-03-05)
 * [“Deep Learning is Rubbish” — Karl Friston & Yann LeCun Face Off at Davos 2024 World Economic Forum | by Denise Holt | 𝐀𝐈 𝐦𝐨𝐧𝐤𝐬.𝐢𝐨 | Jan, 2024 | Medium](https://medium.com/aimonks/deep-learning-is-rubbish-karl-friston-yann-lecun-face-off-at-davos-2024-world-economic-forum-494e82089d22)
+
+
+
+### More reading
+
+* [python - How do I get the components for LDA in scikit-learn? - Stack Overflow](https://stackoverflow.com/questions/13973096/how-do-i-get-the-components-for-lda-in-scikit-learn)
+* [sklearn.decomposition.LatentDirichletAllocation — scikit-learn 1.4.1 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation)
